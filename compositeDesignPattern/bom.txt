@@ -1,0 +1,6 @@
+aircraft engine 4
+engine turbine 4
+turbine rotor 5
+turbine stator 10
+rotor blade 10
+stator blade 10
